@@ -1,6 +1,1 @@
-
-# Hello-World-GH
-Practice github flow
-
-
-# Git practice with Ahmed
+# Git practice with Ahmed and the team
